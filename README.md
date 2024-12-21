@@ -60,7 +60,7 @@ These outputs make it easy to quickly understand large volumes of text by presen
 
 ## 📝 **Model Accuracy & Validation Loss Per Epoch**
 
-<img src="https://github.com/Shuhaib73/Text_Summarization_LLM_NLP/blob/main/text_summ_epo.png" alt="Generated Image 1" style="width: 900px; height: 280px; border: 2px solid #ccc; border-radius: 8px; display: inline-block; margin-right: 10px;">
+<img src="https://github.com/Shuhaib73/Text_Summarization_LLM_NLP/blob/main/text_summ_epo.png" alt="Generated Image 1" style="width: 700px; height: 330px; border: 2px solid #ccc; border-radius: 8px; display: inline-block; margin-right: 10px;">
 
 
 ---
