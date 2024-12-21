@@ -7,7 +7,9 @@ Welcome to the **Text Summarizer System**! 🎉 Unlock the power of automated te
 ## 📖 **Features**
 
 ✔️ Real-Time Text Summarization: Generate concise, meaningful summaries from any text in real-time, providing clear insights with 📖.
+
 ✔️ User-Friendly Interface: Built with Flask, HTML, and CSS, ensuring a smooth and intuitive experience for all users 🌟.
+
 ✔️ Customizable: Easily adaptable for various text summarization tasks, including extractive and abstractive summaries, and extendable for other NLP tasks 🔍.
 
 ---
@@ -52,15 +54,13 @@ These technologies collectively make the Sentiment Analyzer app a versatile, eff
 These outputs make it easy to quickly understand large volumes of text by presenting only the most important information. 🎯
 
 ---
-## 🌟 **WordCloud Examples**
+## 🌟 **Visualization**
 
-<img src="https://github.com/Shuhaib73/Sentiment-Analysis-NLP/blob/prj_branch/lstm_word.png" alt="Generated Image 1" style="max-width: 35%; height: 250px; border: 2px solid #ccc; border-radius: 8px; display: inline-block; margin-right: 10px;">
+<img src="https://github.com/Shuhaib73/Text_Summarization_LLM_NLP/blob/main/text_summ_dis.png" alt="Generated Image 1" style="max-width: 35%; height: 250px; border: 2px solid #ccc; border-radius: 8px; display: inline-block; margin-right: 10px;">
 
-## 📝 **Model Accuracy & Model Loss Per Epoch**
+## 📝 **Model Accuracy & Validation Loss Per Epoch**
 
-   -- Accuracy: 88%
-
-<img src="https://github.com/Shuhaib73/Sentiment-Analysis-NLP/blob/prj_branch/lstm_res.png" alt="Generated Image 1" style="width: 900px; height: 280px; border: 2px solid #ccc; border-radius: 8px; display: inline-block; margin-right: 10px;">
+<img src="https://github.com/Shuhaib73/Text_Summarization_LLM_NLP/blob/main/text_summ_epo.png" alt="Generated Image 1" style="width: 900px; height: 280px; border: 2px solid #ccc; border-radius: 8px; display: inline-block; margin-right: 10px;">
 
 
 ---
@@ -68,15 +68,25 @@ These outputs make it easy to quickly understand large volumes of text by presen
 ## 🌟 **Usage Examples**
 
 ✔️ Market Research: Condense competitor reports, industry analyses, and market trends to quickly understand the landscape and make informed business decisions
+
 ✔️ Executive Summaries: Automatically generate executive summaries of lengthy reports, presentations, or proposals to highlight key findings for leadership teams.
+
 ✔️ Customer Feedback Analysis: Summarize customer reviews, survey responses, or support tickets to quickly identify common issues and improvement areas.
+
 ✔️ Financial Reports: Summarize financial statements, earnings calls, or investment research to help investors or analysts stay updated on key insights.
+
 ✔️ Press Releases: Automatically generate short summaries of press releases or media content to quickly communicate key announcements to the public.
+
 ✔️ Legal Document Review: Condense legal contracts, case studies, or policy documents to extract critical clauses or information for legal teams
+
 ✔️ Employee Surveys: Summarize internal surveys or feedback to quickly assess employee satisfaction and identify areas for improvement.
+
 ✔️ Marketing Campaign Reports: Generate concise summaries of marketing campaign performance reports to gauge the effectiveness of strategies and adjust in real time.
+
 ✔️ Product Research: Summarize product reviews, research papers, or market surveys to inform product development and improvement strategies.
+
 ✔️ Corporate Training Materials: Summarize training materials, manuals, or industry articles to create digestible content for employee training sessions.
+
 ✔️ Supply Chain Optimization: Summarize supplier reports, market conditions, or logistics data to optimize supply chain management and decision-making.
 
 
